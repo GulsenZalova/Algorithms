@@ -7,6 +7,6 @@ if(first>second){
     alert(`${first} ədədi daha böyükdür`)
 }else if(second>first){
     alert(`${second} ədədi daha böyükdür`)
-}else if(first==second){
+}else{
     alert(`Ədədlər bərabərdir.`)
 }
