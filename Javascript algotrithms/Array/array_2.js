@@ -1,5 +1,5 @@
 // Arrayı kopyalayan funnksiya yazın 
-let numbers=[1,2,3,4,5,6,7]
+// let numbers=[1,2,3,4,5,6,7]
 // 1 way
 // numberCopy=[...numbers]
 // console.log(numberCopy)
