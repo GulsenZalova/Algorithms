@@ -28,7 +28,7 @@
 //     }
 //     else if(b>a&&c>a&&d>a){
 //         for(let i=a; i<=a*b*c*d; i++){
-//             if((i%a==0)&&(i%b==0)&&(i%c==0)&&(i%d==0)){
+//             if((i%a==0)&&(i%b==0)&&(i%c==0git )&&(i%d==0)){
 //                 return i
 //             }
 //         }
